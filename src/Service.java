@@ -1,8 +1,3 @@
-/*
-Name : MESHAL ALI OKAIRY
-ID : 2237836
-Section : F1
-*/
 
 //create the Service class
 
