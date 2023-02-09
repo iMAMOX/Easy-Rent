@@ -1,8 +1,4 @@
-/*
-Name : MESHAL ALI OKAIRY
-ID : 2237836
-Section : F1
-*/
+
 
 import java.util.Date;
 import java.util.Random;
