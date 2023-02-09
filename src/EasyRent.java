@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 
 
 
-public class F12237836P1_EasyRent {
+public class EasyRent {
 
     public static void main(String[] args) throws FileNotFoundException {
         File file1 = new File("inputCar.txt");
