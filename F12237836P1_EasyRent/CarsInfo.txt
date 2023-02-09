@@ -1,0 +1,30 @@
+--------------- Welcome to Car Renting  Data Base ---------------
+
+
+
+
+
+The Car Type: Mercedes Sport, Year: 2017, Transmission: Automatic And Convertible
+------------------------------------------------------
+
+
+The Car Type: Toyota Economy, Year: 2015, Transmission: Automatic
+------------------------------------------------------
+
+
+The Car Type: Mercedes Sport, Year: 2017, Transmission: Automatic
+------------------------------------------------------
+
+
+The Car Type: Toyota Economy, Year: 2016, Transmission: Automatic
+------------------------------------------------------
+
+
+The Car Type: Nissan Luxury, Year: 2017, Transmission: Manual
+------------------------------------------------------
+
+
+The Car Type: Mercedes Luxury, Year: 2016, Transmission: Automatic
+------------------------------------------------------
+
+
